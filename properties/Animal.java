@@ -1,7 +1,7 @@
 package com.sharad.properties;
 
 /*Write a Java program to create a class called Animal with a method called makeSound().
-  Create a subclass called Cat that overrides the makeSound() method to bark.*/
+  Create a subclass called Cat that overrides the makeSound() method to quarrel.*/
 
 public class Animal {
     void makeSound(){
