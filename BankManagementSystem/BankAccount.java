@@ -3,10 +3,6 @@ package BankManagementSystem;
 import java.lang.reflect.AccessibleObject;
 import java.sql.Savepoint;
 
-/*5. Write a Java program to create a class known as "BankAccount" with methods called deposit() and withdraw().
- Create a subclass called SavingsAccount that overrides the withdraw() method to prevent withdrawals if the
- account balance falls below one hundred.*/
-
     public class BankAccount {
         String accountNumber;
         double balance;
